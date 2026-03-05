@@ -11,13 +11,13 @@
            
 </div>
 
-### Overview
+## Overview
 Image Shield is a software that allows you to keep your image files safe. You are in full control of what images you wish to encrypt/decrypt.
 
-### Requirements 
+## Requirements 
 - Ensure that Java 23 or higher is installed on your system
 
-### Getting Started
+## Getting Started
 - Go to the releases page, and download the latest version of the software. [Releases](https://github.com/dug22/Image-Shield/releases)
 - Open your terminal in the directory where the jar file was downloaded and type the following command:
            ```java -classpath /path/to/imgshield 1.0.0.jar io.github.dug22.imageshield.ImageShieldMain```
@@ -25,7 +25,7 @@ Image Shield is a software that allows you to keep your image files safe. You ar
   <img width="778" height="581" alt="image" src="https://github.com/user-attachments/assets/e8662fc6-32a3-4297-9913-9babdd11bbf2" />
 
 
-### What Does Image Shield Offer
+## What Does Image Shield Offer?
 Image Shield offers the following:
 - Protect your information anytime, locally.
 - Protect image files that contains confidential information.
